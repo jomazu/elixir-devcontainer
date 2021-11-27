@@ -1,0 +1,7 @@
+---
+tests: ["test"]
+docs: ["*.md", "docs/", "LICENSE"]
+config: [".github", ".gitignore", ".travis*", ".vscode", ".devcontainer"]
+
+# Pull request has files in it that it shouldn't!
+broken: ["*.pem"]
