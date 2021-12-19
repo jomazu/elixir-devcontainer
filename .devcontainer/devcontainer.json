@@ -6,7 +6,7 @@
   },
 
   "settings": {
-    "terminal.integrated.shell.linux": "/bin/bash"
+    "terminal.integrated.defaultProfile.linux": "bash"
   },
 
   "appPort": [],
@@ -18,7 +18,7 @@
   "extensions": [
     "editorconfig.editorconfig",
     "github.vscode-pull-request-github",
-    "mjmcloug.vscode-elixir",
+    "jakebecker.elixir-ls",
     "redhat.vscode-yaml"
   ]
 }
