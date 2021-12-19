@@ -1,4 +1,4 @@
-FROM elixir:1.12.3
+FROM elixir:1.13.0
 
 LABEL org.opencontainers.image.description="Elixir devcontainer for VSCode or Codespaces"
 LABEL org.opencontainers.image.source=https://github.com/hspaans/elixir-devcontainer
